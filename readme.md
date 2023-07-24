@@ -1,4 +1,4 @@
-# pokedex-fluttler
+# React-native-project
 project iesb react native
 
 # aluno
