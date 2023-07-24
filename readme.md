@@ -4,7 +4,7 @@ project iesb react native
 # aluno
 Renan Costa dos Santos
 
-#Como rodar o projeto
+# Como rodar o projeto
 1. Clone o projeto e abre no VS CODE
 2. Abra o terminal do VS CODE e digite: expo start
 3. Aperte a tecla "w" para rodar no navegador ou instale o aplicativo do expo e escaneie o QR Code
